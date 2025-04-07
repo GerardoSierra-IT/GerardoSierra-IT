@@ -11,6 +11,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/gerardosierra-IT/threat-hunting-scenario-tor)**
 
+## Security Hardening & STIG Compliance with PowerShell
+
+- **[Compliance ()](https://github.com/gerardosierra-IT/Security-Hardening-and-STIG-Compliance)**
+
 <hr/>
 
 
