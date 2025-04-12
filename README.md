@@ -15,6 +15,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Compliance ()](https://github.com/gerardosierra-IT/Security-Hardening-and-STIG-Compliance)**
 
+
+## Cloud Network Security Monitoring with Microsoft Sentinel
+- **[Compliance ()](https://github.com/gerardosierra-IT/Cloud-Network-Security-Monitoring)**
+
 <hr/>
 
 
